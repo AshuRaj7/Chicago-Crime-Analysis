@@ -1,0 +1,8 @@
+myenv/
+venv/
+instance/
+*.sqlite3
+*.db
+__pycache__/
+*.pyc
+.hintrc
